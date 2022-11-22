@@ -48,9 +48,3 @@ I have a passion for both frontend and backend development.
 <a href="http://www.github.com/Qwamzz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Qwamzz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/Qwamzz"><img src="https://activity-graph.herokuapp.com/graph?username=Qwamzz&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Qwamzz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qwamzz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Qwamzz/Qwamzz" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Qwamzz&repo=Qwamzz&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
