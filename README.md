@@ -7,7 +7,7 @@ Software Engineer | Geological Engineer | Data Engineer
 I have a passion for both frontend and backend development.
 
 * ✉️  You can contact me at [niiyarteygidiglo@gmail.com](mailto:niiyarteygidiglo@gmail.com)
-* 🧠  I'm learning new framework
+* 🧠  I'm learning a new framework
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm secretly a spiderman, don't tell anyone
 
