@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nii Yartey Gidiglo
 ==========================================================================================================================================
 
-Software Engineer | Geological Engineer | Data Engineer
+Cloud Engineer | Software Engineer | Data Engineer | Geological Engineer
 -----------------
 
-I have a passion for both frontend and backend development.
+I have a passion for cloud computing , frontend and backend development.
 
 * ✉️  You can contact me at [niiyarteygidiglo@gmail.com](mailto:niiyarteygidiglo@gmail.com)
 * 🧠  I'm learning a new framework
